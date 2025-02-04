@@ -1134,7 +1134,7 @@ body{
       margin: 3rem 0;
     }
     .home{
-        margin:0;
+      margin:0;
       flex-direction: column;
     }
     .home-content h3 {
@@ -1158,7 +1158,7 @@ body{
      margin-left: 0;
      padding: 10px;
      width: 90%;
-     font-size: 12px;
+     font-size:2rem;
     }
     .education {
       margin:0;
@@ -1170,9 +1170,8 @@ body{
       width: 100%;
     }
     section {
-        margin-top: 2px;  /* Reduce space */
-        padding-top: 10px; /* Adjust padding */
-    }
+        margin: 0;  /* Reduce space */
+        font-size:60%;
          
     }
     @media(max-width:450px) {
