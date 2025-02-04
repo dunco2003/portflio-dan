@@ -1166,7 +1166,9 @@ body{
     
     font-size: 7rem;
   }   
-              
+     .contactt{
+        font-size:14rem;
+        margin-left:5px;}         
    .contact form    {
     margin: 0 auto;
     text-align: center;
@@ -1197,11 +1199,16 @@ body{
     border-radius: .6rem;
     border: .1rem solid var(---main-color);
    }
-   
+   .footer{
+       justfliy-content:center;
+       text-align:center;
+           
+   }
    
     section {
         margin: 0;  /* Reduce space */
         font-size:60%;
+        
          
     }
     @media(max-width:450px) {
