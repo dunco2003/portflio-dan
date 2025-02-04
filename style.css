@@ -1163,10 +1163,11 @@ body{
       margin-bottom: 10px;
       width: 100%;
     }
-      section{
-    margin:2px;
-      padding: 10rem 3% 2rem;
-      }
+    section {
+        margin-top: 10px;  /* Reduce space */
+        padding-top: 10px; /* Adjust padding */
+    }
+         
     }
     @media(max-width:450px) {
       html{
