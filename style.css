@@ -360,7 +360,7 @@ body{
   }
   .about-img{
     position: relative;
-    width: 15rem;
+    width: 32vw;
     height: 15rem;
     border-radius: 50%;
     display: flex;
