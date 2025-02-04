@@ -107,7 +107,7 @@ body{
     
   }
   #date-container{
-    font-size:1rem ;
+    font-size:1.5rem ;
     font-weight: 100;
   }
   #current-date{
@@ -123,13 +123,13 @@ body{
   }
   
   .home-content h3{
-    font: 2.5rem;
+    font: 2rem;
     margin-bottom: 2rem;
     margin-top: 1rem;
   }
   
   .home-content p {
-    font-size:2.5rem;
+    font-size:1.5rem;
     font-weight: 500;
     line-height: 1.8;
     max-width: 1000px;
@@ -303,6 +303,7 @@ body{
     }
   }
   .about{
+    margin:2px;
     display: flex;
     justify-content: left;
     align-items: left;
@@ -312,7 +313,7 @@ body{
     padding-bottom: 2rem;
   }
   .aboutcontainer{
-    
+    margin:2px;
     display: grid;
     grid-template-columns: 1fr 3fr;
     gap: 10px;
