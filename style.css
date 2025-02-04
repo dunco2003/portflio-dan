@@ -722,7 +722,7 @@ body{
   
   .contact text{
     
-    font-size: 20px;
+    font-size: 5rem;
   }   
               
    .contact form    {
@@ -1023,6 +1023,7 @@ body{
         font-size: 50%;
     }
     section{
+    margin:2px;
       padding: 10rem 3% 2rem;
     }
     .timelineitems::before{
@@ -1098,7 +1099,10 @@ body{
         font-size:50%;
         margin:5px;
     }
-    
+    section{
+    margin:2px;
+      padding: 10rem 3% 2rem;
+    }
   }
   @media(max-width:768px){
     #menu-icon{
@@ -1159,6 +1163,10 @@ body{
       margin-bottom: 10px;
       width: 100%;
     }
+      section{
+    margin:2px;
+      padding: 10rem 3% 2rem;
+      }
     }
     @media(max-width:450px) {
       html{
