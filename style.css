@@ -211,7 +211,7 @@ body{
     
     position: relative;
     top: 1rem;
-    width: 70vw ;
+    width: 35vw ;
     background: transparent;
     border-radius: 0px 10px 0px 10px;
     margin-left: 35px;
@@ -360,7 +360,7 @@ body{
   }
   .about-img{
     position: relative;
-    width: 32vw;
+    width: 15rem;
     height: 15rem;
     border-radius: 50%;
     display: flex;
