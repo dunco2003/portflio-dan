@@ -76,6 +76,7 @@ body{
     padding: 10rem 9% 1rem;
   }
   .home{
+    margin:2px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -419,7 +420,7 @@ body{
     margin: 5rem 0;
   }
   .education{
-      margin:2px;
+     margin-top:0;
     padding:10px 15px;
     background-color: var(--second-bg-color);
     
@@ -506,6 +507,8 @@ body{
   }
   
   .skills {
+
+   margin:0;
     min-height: auto;
     padding-bottom: 7rem;
     background: #081b29;
@@ -849,6 +852,7 @@ body{
   }
   .popuprate{
     width: 200px;
+    margin:0;
     font-size: 10px;
     font-weight: 200;
     background-color: #fff;
@@ -1130,6 +1134,7 @@ body{
       margin: 3rem 0;
     }
     .home{
+        margin:0;
       flex-direction: column;
     }
     .home-content h3 {
@@ -1143,6 +1148,7 @@ body{
       margin-top: 4rem;
     }
     .about{
+      margin:0;
       display:flex;
       width: 100%;
     }
@@ -1155,7 +1161,7 @@ body{
      font-size: 12px;
     }
     .education {
-      margin:5px;
+      margin:0;
       flex-direction: column;
       align-items: flex-start;
     }
@@ -1164,7 +1170,7 @@ body{
       width: 100%;
     }
     section {
-        margin-top: 10px;  /* Reduce space */
+        margin-top: 2px;  /* Reduce space */
         padding-top: 10px; /* Adjust padding */
     }
          
