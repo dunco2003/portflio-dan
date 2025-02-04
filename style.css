@@ -107,8 +107,9 @@ body{
     
   }
   #date-container{
+    justify-content:center;
     font-size:0.5rem ;
-    font-weight: 80;
+    font-weight: 100;
   }
   #current-date{
     color: var(---main-color);
