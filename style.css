@@ -340,7 +340,6 @@ body{
   }
   .span{margin: 1px;
     font-family: "poppions" sans-serif;
-    color: var(---main-color);
     font-size: 2rem;
     font-weight: 400;
     display: inline;
