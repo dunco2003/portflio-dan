@@ -64,7 +64,7 @@
 <h2 class="heading">About <span class="span1">Me</span></h2>
 <div class="aboutcontainer">
 <div class="about-img">
-  <img src="my picture .png" alt="">
+  <img src="images/my-picture.png" alt="my picture">
   <span class="circle-spin"></span>
   </div>
   <div class=" aboutme">As a seasoned frontend developer,
