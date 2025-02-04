@@ -344,12 +344,6 @@ body{
     font-size: 2rem;
     font-weight: 400;
     display: inline;
-    justify-content: center;
-    align-items: center;
-    background: var(---main-color);
-    overflow: hidden;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
   
   }
   .heading{
@@ -1167,9 +1161,10 @@ body{
     .timelineitem{
       margin-bottom: 10px;
       width: 100%;
-    }contact text{
+    }
+    .contact text{
     
-    font-size: 5rem;
+    font-size: 7rem;
   }   
               
    .contact form    {
@@ -1196,7 +1191,7 @@ body{
     width: 100%;
     height: 100%;
     padding: 2px;
-    font-size: 2rem;
+    font-size: 5rem;
     color: var(--text-color);
     background: transparent;
     border-radius: .6rem;
