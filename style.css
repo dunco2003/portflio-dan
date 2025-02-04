@@ -93,8 +93,8 @@ body{
   }
   #clock {
     justify-content: center;
-    text-align: top;
-    align-items: top;
+    text-align: center;
+    align-items: center;
     font-size: 0.1rem;
     color: var(---main-color);
     border-top: 3px solid var(---main-color);
@@ -107,8 +107,8 @@ body{
     
   }
   #date-container{
-    font-size:2.5rem ;
-    font-weight: 100;
+    font-size:1.5rem ;
+    font-weight: 80;
   }
   #current-date{
     color: var(---main-color);
