@@ -1,30 +1,3 @@
-//const logo = document.getElementById("logo");
-//logo.textContent = "Kaimenyi.";//
-/*function greet(name) {
-    return "hello, " + name;
-}
-console .log(greet("duncan"));*/
-/*const greet= function (name){
-    return "hello, " + name; 
-}
-console.log(greet("johh"));*/
-/*document.getElementById("mybutton").addEventListener("click",function(){
-    alert("submited");
-});*/ 
-/*const age = 5;
-if (age < 13){
-    console.log("you are a child");
-} else if(age >= 13 && age <18){
-    console.log("you are a teenager");
-}else { 
-    console.log("you are an adult");
-}*/
-/*const month = "july"
-switch (month) {let i = 0;
-while (i<5) {
-    console.log(i); i++;
-    
-}*/
 document.getElementById("contactform").addEventListener('submit',function (event) {
     event.preventDefault();
     
