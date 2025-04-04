@@ -64,7 +64,7 @@ Contact
 
 If you have any questions or want to collaborate, feel free to reach out:
 
-Email: duncankaimenyi502@gmail.com
+Email: kaimedunco@gmail.com
 
 Phone: 0713723639
 
